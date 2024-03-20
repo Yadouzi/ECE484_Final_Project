@@ -1,1 +1,1 @@
-# ECE484_Final_Project
+# ECE484_Chip_Interfacing
